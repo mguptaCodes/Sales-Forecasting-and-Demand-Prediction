@@ -31,3 +31,5 @@ This project focuses on analyzing historical sales data, identifying sales trend
 
 ## Author
 Manaswi Gupta
+- GitHub: https://github.com/mguptaCodes
+- LinkedIn: https://www.linkedin.com/in/manaswi-gupta-718b14302
